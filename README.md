@@ -1,1 +1,1 @@
-"# IBM-Cloud-Discovery-Get-Promocode" 
+# IBM-Cloud-Discovery-Get-Promocode
