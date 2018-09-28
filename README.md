@@ -3,7 +3,7 @@
 Para que você possa desfrutar ao máximo dos laboratórios será necessários realizar os seguintes passos:
 
 1. Registro na IBM Cloud com conta Lite
-   1. Registre-se gratuitamente <a href="https://bluemix.net" target="_blank">aqui<a>
+   1. Registre-se gratuitamente [aqui](https://bluemix.net)
    2. Checar seu e-mail para e-mail de validação de conta de IBM Cloud (veja spam também). Click no link de verificação
    3. Faça o login na IBM Cloud<br><br>
    
